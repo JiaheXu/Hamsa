@@ -5,7 +5,7 @@ import yaml
 from hamsa import firmware
 import configparser
 
-hamsa_config = expandvars('$HOME/robothand/hamsa/hamsa.config')
+hamsa_config = expandvars('$HOME/Hamsa/hamsa.config')
 config = configparser.ConfigParser()
 config.read(hamsa_config)
 

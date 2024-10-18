@@ -1,0 +1,7 @@
+.build/
+build/
+hamsa.egg-info/
+make_go
+src/hamsa/__pycache__/
+src/hamsa/firmware.cpython-310-x86_64-linux-gnu.so
+

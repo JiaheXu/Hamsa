@@ -118,6 +118,7 @@ if __name__ == '__main__':
     delay = 3
     try:
         idle(move_time)
+        print("???")
         sleep(delay)
         ok(move_time)
         sleep(delay)
